@@ -1,8 +1,8 @@
 {
     "packs": [
-        "noordstar-cursed.json",
+        "scalar-privacy-pam.json",
         "noordstar-reaction.json",
-        "scalar-privacy-pam.json"
+        "noordstar-cursed.json"
     ],
     "homeserver_url": "https://synapse.noordstar.me"
 }
