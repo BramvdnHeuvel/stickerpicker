@@ -3,35 +3,35 @@
     "id": "images",
     "stickers": [{
         "body": "10 out of 10 rating",
+        "url": "mxc://noordstar.me/iMaNuhpLjrLYvbhgWQOKAEku",
         "info": {
-          "size": 1638898,
-          "mimetype": "image/gif",
-          "thumbnail_info": {
-            "w": 498,
-            "h": 498,
-            "mimetype": "image/png",
-            "size": 149786
-          },
-          "w": 498,
-          "h": 498,
-          "xyz.amorgan.blurhash": "UXPjMqofRjM{~qofxut7juRjxuj[D*j[t7WB",
-          "thumbnail_url": "mxc://noordstar.me/aOIueGQklrmIyyOBpgifneQt"
+            "w": 256,
+            "h": 256,
+            "size": 1638898,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/iMaNuhpLjrLYvbhgWQOKAEku",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 256,
+                "size": 1638898,
+                "mimetype": "image/png"
+            }
         },
-        "msgtype": "m.image",
-        "url": "mxc://noordstar.me/lSoDlWZZvcDOHCsUfMEcnQrM"
-      }, {
+        "msgtype": "m.sticker",
+        "id": "sha256:7dcd48155ac08ab1eaf5b21001e9ef78298621748191aa068d207e20bef91aa8"
+    }, {
         "body": "Alcoholic Pennywise",
-        "url": "mxc://noordstar.me/vvhmyjCrnJsWKvfwVRPmRnVO",
+        "url": "mxc://noordstar.me/dYERnKfOqfUbAKMAjdohtXVG",
         "info": {
             "w": 222,
             "h": 256,
-            "size": 55369,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/vvhmyjCrnJsWKvfwVRPmRnVO",
+            "size": 2200614,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/dYERnKfOqfUbAKMAjdohtXVG",
             "thumbnail_info": {
                 "w": 222,
                 "h": 256,
-                "size": 55369,
+                "size": 2200614,
                 "mimetype": "image/png"
             }
         },
@@ -75,17 +75,17 @@
         "id": "sha256:32bd171e4ddde75186fb7395c3f16ecc1cddd418b8cb2bce644ad3c837a2e204"
     }, {
         "body": "Boy in tears",
-        "url": "mxc://noordstar.me/ERCghyYiTYPRpYmrwslcsvtr",
+        "url": "mxc://noordstar.me/zNGllHTOAKvcSiEurvvNCiUV",
         "info": {
             "w": 234,
             "h": 176,
-            "size": 47456,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/ERCghyYiTYPRpYmrwslcsvtr",
+            "size": 1556446,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/zNGllHTOAKvcSiEurvvNCiUV",
             "thumbnail_info": {
                 "w": 234,
                 "h": 176,
-                "size": 47456,
+                "size": 1556446,
                 "mimetype": "image/png"
             }
         },
@@ -93,17 +93,17 @@
         "id": "sha256:59c57b47a79b94aac37584791b20f6532a28583dc65782fc6a800a8a3bdfd474"
     }, {
         "body": "Capitalist pig",
-        "url": "mxc://noordstar.me/erEuNUhjutqOTGVjSOMvgVbZ",
+        "url": "mxc://noordstar.me/dItibDYOnStsZiIReyhedoUb",
         "info": {
             "w": 256,
             "h": 234,
-            "size": 38541,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/erEuNUhjutqOTGVjSOMvgVbZ",
+            "size": 2186600,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/dItibDYOnStsZiIReyhedoUb",
             "thumbnail_info": {
                 "w": 256,
                 "h": 234,
-                "size": 38541,
+                "size": 2186600,
                 "mimetype": "image/png"
             }
         },
@@ -273,17 +273,17 @@
         "id": "sha256:78c87b52082131033608808067874af9afd95c8c51ade7718c605b9e7e33ebdd"
     }, {
         "body": "Extreme laugh",
-        "url": "mxc://noordstar.me/yBZBzrwvmFsltvihBZTUjcou",
+        "url": "mxc://noordstar.me/PVJkDjqllZbIITIlheLlWUxy",
         "info": {
             "w": 256,
             "h": 238,
-            "size": 144145,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/yBZBzrwvmFsltvihBZTUjcou",
+            "size": 911423,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/PVJkDjqllZbIITIlheLlWUxy",
             "thumbnail_info": {
                 "w": 256,
                 "h": 238,
-                "size": 144145,
+                "size": 911423,
                 "mimetype": "image/png"
             }
         },
@@ -309,17 +309,17 @@
         "id": "sha256:ebe90e83c504c306715b04697c151764228400b034f3a601d79b1dc0228a0e27"
     }, {
         "body": "Greedy boy",
-        "url": "mxc://noordstar.me/qmfTelsTioXvmNNSxtpEirqb",
+        "url": "mxc://noordstar.me/DnGOprvZpcUehElBaFySAtCw",
         "info": {
             "w": 256,
             "h": 192,
-            "size": 123341,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/qmfTelsTioXvmNNSxtpEirqb",
+            "size": 170180,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/DnGOprvZpcUehElBaFySAtCw",
             "thumbnail_info": {
                 "w": 256,
                 "h": 192,
-                "size": 123341,
+                "size": 170180,
                 "mimetype": "image/png"
             }
         },
@@ -381,17 +381,17 @@
         "id": "sha256:bb6ba45a5c67667d3882c97ea1b304080827f517643d9efed0973ddb4d90bce0"
     }, {
         "body": "Hostile cowboy",
-        "url": "mxc://noordstar.me/fYXPkFkKhzHtuwldimymmsvu",
+        "url": "mxc://noordstar.me/BuLmPtCPcxUnsGzCMQAHgwZk",
         "info": {
             "w": 256,
             "h": 193,
-            "size": 210753,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/fYXPkFkKhzHtuwldimymmsvu",
+            "size": 2069296,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/BuLmPtCPcxUnsGzCMQAHgwZk",
             "thumbnail_info": {
                 "w": 256,
                 "h": 193,
-                "size": 210753,
+                "size": 2069296,
                 "mimetype": "image/png"
             }
         },
@@ -417,17 +417,17 @@
         "id": "sha256:43db1beb19f33c6212d6d5786fcbf384895ba824eb68af47a516c1e79c1a4864"
     }, {
         "body": "I'm out",
-        "url": "mxc://noordstar.me/JxxtvvmLQGxBVnEtRoJBdMZJ",
+        "url": "mxc://noordstar.me/XczZwtRjsCfRCunjocMwJZfj",
         "info": {
             "w": 200,
             "h": 200,
-            "size": 38187,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/JxxtvvmLQGxBVnEtRoJBdMZJ",
+            "size": 1255232,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/XczZwtRjsCfRCunjocMwJZfj",
             "thumbnail_info": {
                 "w": 200,
                 "h": 200,
-                "size": 38187,
+                "size": 1255232,
                 "mimetype": "image/png"
             }
         },
@@ -435,17 +435,17 @@
         "id": "sha256:5c29290ce4fd7f89e8b41e63fa95e99a430e314a44ec349561d17b454a2ecba7"
     }, {
         "body": "Ivan the Terrible says no",
-        "url": "mxc://noordstar.me/qWzRqHomygelMxaHtuYaHPlS",
+        "url": "mxc://noordstar.me/oUGVnAyRGmUScZOVPrsdsRpK",
         "info": {
             "w": 256,
             "h": 193,
-            "size": 241168,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/qWzRqHomygelMxaHtuYaHPlS",
+            "size": 755516,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/oUGVnAyRGmUScZOVPrsdsRpK",
             "thumbnail_info": {
                 "w": 256,
                 "h": 193,
-                "size": 241168,
+                "size": 755516,
                 "mimetype": "image/png"
             }
         },
@@ -453,17 +453,17 @@
         "id": "sha256:64f1fd7501c7030ec6c5618b3e634b5716114bfbd15ce3219479db3c604c3a86"
     }, {
         "body": "Malicious plotting guy",
-        "url": "mxc://noordstar.me/WxfirigZmQvTOIUbDFrSBJCw",
+        "url": "mxc://noordstar.me/ySVBFyPoLZqiHZAhvjgSHwVP",
         "info": {
             "w": 256,
             "h": 144,
-            "size": 117904,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/WxfirigZmQvTOIUbDFrSBJCw",
+            "size": 3716693,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/ySVBFyPoLZqiHZAhvjgSHwVP",
             "thumbnail_info": {
                 "w": 256,
                 "h": 144,
-                "size": 117904,
+                "size": 3716693,
                 "mimetype": "image/png"
             }
         },
@@ -507,17 +507,17 @@
         "id": "sha256:5c8ae0733d890b8fac6ae260c4f846e3e13970812fe193f9f38a56a8730f1a9a"
     }, {
         "body": "NO",
-        "url": "mxc://noordstar.me/mCrSMtRPvbMXNbbzOKyZcRYl",
+        "url": "mxc://noordstar.me/oaFTuILyaEvWGyTLbQxYNuEW",
         "info": {
             "w": 256,
             "h": 191,
-            "size": 41948,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/mCrSMtRPvbMXNbbzOKyZcRYl",
+            "size": 965737,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/oaFTuILyaEvWGyTLbQxYNuEW",
             "thumbnail_info": {
                 "w": 256,
                 "h": 191,
-                "size": 41948,
+                "size": 965737,
                 "mimetype": "image/png"
             }
         },
@@ -543,17 +543,17 @@
         "id": "sha256:c2bbd0a74bbdbb1294a9d96dcf876b011ac9092b771be48c4818b77c150e3ef1"
     }, {
         "body": "Putin likes keys",
-        "url": "mxc://noordstar.me/rAfVWsNqzAiBFbmRkKwMmxLm",
+        "url": "mxc://noordstar.me/bNJQhCjzxlEutYireGDoHfeI",
         "info": {
             "w": 256,
             "h": 180,
-            "size": 71003,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/rAfVWsNqzAiBFbmRkKwMmxLm",
+            "size": 4827627,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/bNJQhCjzxlEutYireGDoHfeI",
             "thumbnail_info": {
                 "w": 256,
                 "h": 180,
-                "size": 71003,
+                "size": 4827627,
                 "mimetype": "image/png"
             }
         },
@@ -579,17 +579,17 @@
         "id": "sha256:c23ac474e93d2025eb973a761dda8a7f45e0e9cb165d4a3dfdff70f1b854dd5a"
     }, {
         "body": "Screaming Man",
-        "url": "mxc://noordstar.me/IbEcgkWHqAVWSyzihOShpJYK",
+        "url": "mxc://noordstar.me/zvNSXALuAGaslpBiMQZHPRpP",
         "info": {
             "w": 200,
             "h": 200,
-            "size": 50100,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/IbEcgkWHqAVWSyzihOShpJYK",
+            "size": 3392160,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/zvNSXALuAGaslpBiMQZHPRpP",
             "thumbnail_info": {
                 "w": 200,
                 "h": 200,
-                "size": 50100,
+                "size": 3392160,
                 "mimetype": "image/png"
             }
         },
@@ -669,17 +669,17 @@
         "id": "sha256:efe6e8335bc95c57a5abc3318e639eb9b043486974f924193d6b4b359ffbf992"
     }, {
         "body": "Surprised Mitt Romney",
-        "url": "mxc://noordstar.me/eEloTBRiJtyXmjwtbgnkgSoS",
+        "url": "mxc://noordstar.me/iyFpgDqusJxPWeBlEhBaMPsq",
         "info": {
             "w": 256,
             "h": 204,
-            "size": 39100,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/eEloTBRiJtyXmjwtbgnkgSoS",
+            "size": 683173,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/iyFpgDqusJxPWeBlEhBaMPsq",
             "thumbnail_info": {
                 "w": 256,
                 "h": 204,
-                "size": 39100,
+                "size": 683173,
                 "mimetype": "image/png"
             }
         },
@@ -723,17 +723,17 @@
         "id": "sha256:cf8b09a23a3899d48b73745e26fa8c93b3cfafe5b30eaf24b7b8465766edca61"
     }, {
         "body": "Thirsty cat",
-        "url": "mxc://noordstar.me/UssztWCWxZVTKAfLKQxzfJMy",
+        "url": "mxc://noordstar.me/eIKnaZAAHMobPnxImEbSDNGb",
         "info": {
             "w": 256,
             "h": 177,
-            "size": 54564,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/UssztWCWxZVTKAfLKQxzfJMy",
+            "size": 279266,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/eIKnaZAAHMobPnxImEbSDNGb",
             "thumbnail_info": {
                 "w": 256,
                 "h": 177,
-                "size": 54564,
+                "size": 279266,
                 "mimetype": "image/png"
             }
         },
@@ -831,17 +831,17 @@
         "id": "sha256:d84fd9fa213117ea1378070470fb6e2e09eedf0868c84be5cb3807afc0545d6b"
     }, {
         "body": "World's smallest violin",
-        "url": "mxc://noordstar.me/OpqZTAEnBCtUHXNYZicHbyxv",
+        "url": "mxc://noordstar.me/eUuTxrKVFrwKZlSbfLOPdOxg",
         "info": {
             "w": 220,
             "h": 220,
-            "size": 42000,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/OpqZTAEnBCtUHXNYZicHbyxv",
+            "size": 709445,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/eUuTxrKVFrwKZlSbfLOPdOxg",
             "thumbnail_info": {
                 "w": 220,
                 "h": 220,
-                "size": 42000,
+                "size": 709445,
                 "mimetype": "image/png"
             }
         },
@@ -903,17 +903,17 @@
         "id": "sha256:4f7b0deb5d5e4eaaa30da1ec3e5850a0768479c45cba6c5b9071c9b8845f6edf"
     }, {
         "body": "\u3093",
-        "url": "mxc://noordstar.me/QceIhUqfBEBGXhgEbqccPxss",
+        "url": "mxc://noordstar.me/nnjanyjkwNxQyIMXpDBpGnkL",
         "info": {
             "w": 256,
             "h": 256,
-            "size": 75715,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/QceIhUqfBEBGXhgEbqccPxss",
+            "size": 459682,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/nnjanyjkwNxQyIMXpDBpGnkL",
             "thumbnail_info": {
                 "w": 256,
                 "h": 256,
-                "size": 75715,
+                "size": 459682,
                 "mimetype": "image/png"
             }
         },
