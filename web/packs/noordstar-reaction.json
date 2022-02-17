@@ -3,23 +3,23 @@
     "id": "images",
     "stickers": [{
         "body": "10 out of 10 rating",
-        "url": "mxc://noordstar.me/lSoDlWZZvcDOHCsUfMEcnQrM",
         "info": {
-            "w": 256,
-            "h": 256,
-            "size": 151209,
-            "mimetype": "image/gif",
-            "thumbnail_url": "mxc://noordstar.me/aOIueGQklrmIyyOBpgifneQt",
-            "thumbnail_info": {
-                "w": 256,
-                "h": 256,
-                "size": 151209,
-                "mimetype": "image/png"
-            }
+          "size": 1638898,
+          "mimetype": "image/gif",
+          "thumbnail_info": {
+            "w": 498,
+            "h": 498,
+            "mimetype": "image/png",
+            "size": 149786
+          },
+          "w": 498,
+          "h": 498,
+          "xyz.amorgan.blurhash": "UXPjMqofRjM{~qofxut7juRjxuj[D*j[t7WB",
+          "thumbnail_url": "mxc://noordstar.me/aOIueGQklrmIyyOBpgifneQt"
         },
-        "msgtype": "m.sticker",
-        "id": "sha256:7dcd48155ac08ab1eaf5b21001e9ef78298621748191aa068d207e20bef91aa8"
-    }, {
+        "msgtype": "m.image",
+        "url": "mxc://noordstar.me/lSoDlWZZvcDOHCsUfMEcnQrM"
+      }, {
         "body": "Alcoholic Pennywise",
         "url": "mxc://noordstar.me/vvhmyjCrnJsWKvfwVRPmRnVO",
         "info": {
