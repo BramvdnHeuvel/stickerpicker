@@ -1,0 +1,23 @@
+{
+    "title": "Frogs",
+    "id": "images",
+    "stickers": [{
+        "body": "F R O G",
+        "url": "mxc://noordstar.me/bJDXeCvDfTDmwxSzjJQUybiN",
+        "info": {
+            "w": 256,
+            "h": 230,
+            "size": 2556448,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/bJDXeCvDfTDmwxSzjJQUybiN",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 230,
+                "size": 2556448,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:be671a4631b5fb7469dae97bda1a45647bbfa6c6a9518e1002ac6cf000f6a55f"
+    }]
+}

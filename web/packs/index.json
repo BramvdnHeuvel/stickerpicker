@@ -1,6 +1,8 @@
 {
     "packs": [
         "scalar-privacy-pam.json",
+        "noordstar-skull.json",
+        "noordstar-frogs.json",
         "noordstar-reaction.json",
         "noordstar-cursed.json"
     ],
