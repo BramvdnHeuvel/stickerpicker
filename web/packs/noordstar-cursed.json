@@ -1,0 +1,77 @@
+{
+    "title": "Cursed images",
+    "id": "images",
+    "stickers": [{
+        "body": "Bye Bye Willy",
+        "url": "mxc://noordstar.me/WcMLGBvWGFvcfOVDynbSrkiW",
+        "info": {
+            "w": 256,
+            "h": 253,
+            "size": 930312,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/WcMLGBvWGFvcfOVDynbSrkiW",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 253,
+                "size": 930312,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:abf7e91d790ca589850340ab20202a50e2c53a30ebaf3c997eff33a533584ee7"
+    }, {
+        "body": "Girl covered in bugs",
+        "url": "mxc://noordstar.me/gvOOBigizDHbTmnAKVvNOWCr",
+        "info": {
+            "w": 247,
+            "h": 256,
+            "size": 1127761,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/gvOOBigizDHbTmnAKVvNOWCr",
+            "thumbnail_info": {
+                "w": 247,
+                "h": 256,
+                "size": 1127761,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:a12406bc1c3d6566398c932983904c44784bae15a23bac9907046cdfdb4dd7e1"
+    }, {
+        "body": "Hawk wasp carrying spider",
+        "url": "mxc://noordstar.me/zqAOaHJbgPCUVpzUinOJsAVF",
+        "info": {
+            "w": 198,
+            "h": 256,
+            "size": 423933,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/zqAOaHJbgPCUVpzUinOJsAVF",
+            "thumbnail_info": {
+                "w": 198,
+                "h": 256,
+                "size": 423933,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:2f36d7d30ada3329dafffcabc63b7254a2801344500a5a71afac66358f640436"
+    }, {
+        "body": "Homeless squirrel",
+        "url": "mxc://noordstar.me/BJfEDBRUMCXXrUfJqHWcBTIc",
+        "info": {
+            "w": 256,
+            "h": 247,
+            "size": 685796,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/BJfEDBRUMCXXrUfJqHWcBTIc",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 247,
+                "size": 685796,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:f6f20ee240ea4701b72c326e09f5b44bd88af274950c399e94a3dc92870d1dc7"
+    }]
+}

@@ -1,6 +1,8 @@
 {
-  "packs": [
-    "test.json"
-  ],
-  "homeserver_url": "https://matrix.org"
+    "packs": [
+        "noordstar-cursed.json",
+        "noordstar-reaction.json",
+        "scalar-privacy-pam.json"
+    ],
+    "homeserver_url": "https://synapse.noordstar.me"
 }
