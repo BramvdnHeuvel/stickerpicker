@@ -3,18 +3,18 @@
     "id": "images",
     "stickers": [{
         "body": "10 out of 10 rating",
-        "url": "mxc://noordstar.me/svyynEXauowTRzcSYLazwplt",
+        "url": "mxc://noordstar.me/lSoDlWZZvcDOHCsUfMEcnQrM",
         "info": {
             "w": 256,
             "h": 256,
             "size": 151209,
             "mimetype": "image/gif",
-            "thumbnail_url": "mxc://noordstar.me/svyynEXauowTRzcSYLazwplt",
+            "thumbnail_url": "mxc://noordstar.me/aOIueGQklrmIyyOBpgifneQt",
             "thumbnail_info": {
                 "w": 256,
                 "h": 256,
                 "size": 151209,
-                "mimetype": "image/gif"
+                "mimetype": "image/png"
             }
         },
         "msgtype": "m.sticker",
