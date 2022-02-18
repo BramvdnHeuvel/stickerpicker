@@ -110,6 +110,24 @@
         "msgtype": "m.sticker",
         "id": "sha256:9bf179a0d233bc36647acb57066e4bdba86682f46b7d5c2ed3a10a7898dc10c3"
     }, {
+        "body": "Caught you thinking about lewd stuff",
+        "url": "mxc://noordstar.me/uirYrCDAcHyummIwhUBNHBds",
+        "info": {
+            "w": 256,
+            "h": 194,
+            "size": 110907,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/uirYrCDAcHyummIwhUBNHBds",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 194,
+                "size": 110907,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:df3395e1f21ee9ea39da83e5dbd89caf737c550f4dd7c4d823554ebecca97a1d"
+    }, {
         "body": "Caviandkerchief",
         "url": "mxc://noordstar.me/AiXvWbNIGIcnvoiJMOHviImA",
         "info": {
@@ -777,17 +795,17 @@
         "id": "sha256:860665c854f0342b611efe19a81088da13ef5d36d2c8440969da360673bef2e1"
     }, {
         "body": "Unconvinced Anita",
-        "url": "mxc://noordstar.me/RSgjQLoGGjWOArRzCoelgFJX",
+        "url": "mxc://noordstar.me/PLgxWTAbIWmKUBmKGwWzKWRS",
         "info": {
             "w": 190,
             "h": 256,
-            "size": 101009,
-            "mimetype": "image/png",
-            "thumbnail_url": "mxc://noordstar.me/RSgjQLoGGjWOArRzCoelgFJX",
+            "size": 672674,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/PLgxWTAbIWmKUBmKGwWzKWRS",
             "thumbnail_info": {
                 "w": 190,
                 "h": 256,
-                "size": 101009,
+                "size": 672674,
                 "mimetype": "image/png"
             }
         },
