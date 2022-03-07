@@ -1,0 +1,113 @@
+{
+    "title": "Mike's Charming Pictures",
+    "id": "images",
+    "stickers": [{
+        "body": "Haddock Mike",
+        "url": "mxc://noordstar.me/gNqCxjscUGRkFxfWFNDEGNKb",
+        "info": {
+            "w": 256,
+            "h": 223,
+            "size": 45295,
+            "mimetype": "image/jpeg",
+            "thumbnail_url": "mxc://noordstar.me/gNqCxjscUGRkFxfWFNDEGNKb",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 223,
+                "size": 45295,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:9d70ed81a2cb5571b21b007e3a10c10840111aef662d699204d3582141edbebd"
+    }, {
+        "body": "Mike closeup",
+        "url": "mxc://noordstar.me/GMvXyvKpQYAVeyAypYRoxxkm",
+        "info": {
+            "w": 256,
+            "h": 250,
+            "size": 166085,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/GMvXyvKpQYAVeyAypYRoxxkm",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 250,
+                "size": 166085,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:531add6cd8104bf942fb5731d0e41f068e8dc5086eda30133d7dbf00f1a3951c"
+    }, {
+        "body": "Mike head",
+        "url": "mxc://noordstar.me/iNHnaSDirrGNDNWNjYHisQjy",
+        "info": {
+            "w": 256,
+            "h": 250,
+            "size": 155077,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/iNHnaSDirrGNDNWNjYHisQjy",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 250,
+                "size": 155077,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:fef020f825b3445242060b0c5762639f7e2bc6306dd2d3799f3fae16f12a401b"
+    }, {
+        "body": "Mildly Murderous Mike",
+        "url": "mxc://noordstar.me/UszLEteajhUWBTyApQuxtYDH",
+        "info": {
+            "w": 184,
+            "h": 256,
+            "size": 461051,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/UszLEteajhUWBTyApQuxtYDH",
+            "thumbnail_info": {
+                "w": 184,
+                "h": 256,
+                "size": 461051,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:470c5e8e717fa307d215e22e9b9445f2743d70a793bd795fe5328e57e5aa7bfb"
+    }, {
+        "body": "Zombie Mike wants soup",
+        "url": "mxc://noordstar.me/gRKdRJciiXCGwQHhgTcxXgEf",
+        "info": {
+            "w": 256,
+            "h": 256,
+            "size": 392420,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/gRKdRJciiXCGwQHhgTcxXgEf",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 256,
+                "size": 392420,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:76b2d14b822d3a84405370901f5209e52a4530638864864f87d4eb3035c10324"
+    }, {
+        "body": "Zombie Mike",
+        "url": "mxc://noordstar.me/YTUKuAyBBzgXNdGAaBcusVla",
+        "info": {
+            "w": 157,
+            "h": 256,
+            "size": 83418,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/YTUKuAyBBzgXNdGAaBcusVla",
+            "thumbnail_info": {
+                "w": 157,
+                "h": 256,
+                "size": 83418,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:d19776f82baebbcc5889af28ef3aefe77c6df0a14aa730d42d926a46f58bf628"
+    }]
+}
