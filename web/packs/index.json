@@ -1,10 +1,11 @@
 {
     "packs": [
+        "noordstar-cats.json",
         "scalar-privacy-pam.json",
-        "noordstar-skull.json",
-        "noordstar-mike.json",
         "noordstar-frogs.json",
         "noordstar-reaction.json",
+        "noordstar-mike.json",
+        "noordstar-skull.json",
         "noordstar-cursed.json"
     ],
     "homeserver_url": "https://synapse.noordstar.me"

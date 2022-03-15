@@ -1,0 +1,293 @@
+{
+    "title": "Lovely cats",
+    "id": "images",
+    "stickers": [{
+        "body": "Air licking hairy cat",
+        "url": "mxc://noordstar.me/PFOsjiWIDWKLHDxmepKpeTZQ",
+        "info": {
+            "w": 256,
+            "h": 192,
+            "size": 998472,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/PFOsjiWIDWKLHDxmepKpeTZQ",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 192,
+                "size": 998472,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:75058a7f05452db32437d928a1b5726399a0ff5910a87bc608e962f6bdc93444"
+    }, {
+        "body": "Annoyed cat in carton box",
+        "url": "mxc://noordstar.me/XwJHbLLbWMpwqxyAXARYwevn",
+        "info": {
+            "w": 256,
+            "h": 192,
+            "size": 207764,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/XwJHbLLbWMpwqxyAXARYwevn",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 192,
+                "size": 207764,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:6351fa2ad27d8eaba43194d5cfb405292205249d05409b34e51f158313ed883c"
+    }, {
+        "body": "Cat openly welcomes being picked up",
+        "url": "mxc://noordstar.me/CaJVJJDyYUauqthIcgLKHiaf",
+        "info": {
+            "w": 143,
+            "h": 256,
+            "size": 572418,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/CaJVJJDyYUauqthIcgLKHiaf",
+            "thumbnail_info": {
+                "w": 143,
+                "h": 256,
+                "size": 572418,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:aa57e6ca42a806212d76c68e02c6c1128727b5ba1bcb0ea1cf82cbc22a0c6d68"
+    }, {
+        "body": "Cat pulling pet",
+        "url": "mxc://noordstar.me/nSLWZWWpqNgiqClYuJmMEeOa",
+        "info": {
+            "w": 256,
+            "h": 215,
+            "size": 1882030,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/nSLWZWWpqNgiqClYuJmMEeOa",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 215,
+                "size": 1882030,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:f4e39b6dceae6728940777be7d785ce34dbf8d0966b529e0866dabd2bd34ff7e"
+    }, {
+        "body": "Cat screams for attention",
+        "url": "mxc://noordstar.me/ORnLYwZDrvJBKsBLYXdCxIWv",
+        "info": {
+            "w": 245,
+            "h": 256,
+            "size": 1551312,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/ORnLYwZDrvJBKsBLYXdCxIWv",
+            "thumbnail_info": {
+                "w": 245,
+                "h": 256,
+                "size": 1551312,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:d29950d56f9e4195d261aad54c4506d5b5fb4936a23491ebc841fdb890920851"
+    }, {
+        "body": "Cat seductively cuddles teddy bear",
+        "url": "mxc://noordstar.me/QvUqBLCMhOnBlTAetAPJvVFx",
+        "info": {
+            "w": 248,
+            "h": 256,
+            "size": 1426078,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/QvUqBLCMhOnBlTAetAPJvVFx",
+            "thumbnail_info": {
+                "w": 248,
+                "h": 256,
+                "size": 1426078,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:f31a000a2364f7235dd42e53a618f8b0fea0e19f7ca173e884c43f56395fcae6"
+    }, {
+        "body": "Cat thoroughly enjoying a brushing experience",
+        "url": "mxc://noordstar.me/kwYCUgPHMcuSQOChFQEQPwfK",
+        "info": {
+            "w": 143,
+            "h": 256,
+            "size": 480624,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/kwYCUgPHMcuSQOChFQEQPwfK",
+            "thumbnail_info": {
+                "w": 143,
+                "h": 256,
+                "size": 480624,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:27cdd7c467596a2d935c4c3960651e5037aa0e15941b430b944bd0abab684dc3"
+    }, {
+        "body": "Cat wants attention",
+        "url": "mxc://noordstar.me/PHhCixTSGTkUeETIWCNevrTR",
+        "info": {
+            "w": 256,
+            "h": 144,
+            "size": 2112168,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/PHhCixTSGTkUeETIWCNevrTR",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 144,
+                "size": 2112168,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:152f75c0b3db97f87e29b60e947d7637868c11742a2480b3c72b49582b263e78"
+    }, {
+        "body": "Desperate cat behind window",
+        "url": "mxc://noordstar.me/QcLaXVdomqhwIkdSHisvQooA",
+        "info": {
+            "w": 144,
+            "h": 256,
+            "size": 2446742,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/QcLaXVdomqhwIkdSHisvQooA",
+            "thumbnail_info": {
+                "w": 144,
+                "h": 256,
+                "size": 2446742,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:594dacf09eb6746c159f10e7b7b47d4e2afb70ad724906413056af1b89dd3b58"
+    }, {
+        "body": "Inefficiently drinking cat",
+        "url": "mxc://noordstar.me/ErtliYfbilmpfeTfyyfpTlPp",
+        "info": {
+            "w": 256,
+            "h": 178,
+            "size": 683348,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/ErtliYfbilmpfeTfyyfpTlPp",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 178,
+                "size": 683348,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:c6ce335f73dd020f7376b7515bc199bf7e6d31146a8aea3280513a67e1220882"
+    }, {
+        "body": "Kitten overestimates itself against a fierce opponent",
+        "url": "mxc://noordstar.me/QUhqQlzrFvflRzxGXtDspTvn",
+        "info": {
+            "w": 256,
+            "h": 171,
+            "size": 379410,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/QUhqQlzrFvflRzxGXtDspTvn",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 171,
+                "size": 379410,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:caa2990431af51213df5abc6042a49be110cc16058779339607f33804a54e551"
+    }, {
+        "body": "Pawing lying white cat",
+        "url": "mxc://noordstar.me/TpVwKTCcVGOaNvewIwNzUFEL",
+        "info": {
+            "w": 256,
+            "h": 191,
+            "size": 56614,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/TpVwKTCcVGOaNvewIwNzUFEL",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 191,
+                "size": 56614,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:0c6216191907e9dcf01a5cf50e868c968fd6b7ac8e22bf8e5cddf8ba91b182c7"
+    }, {
+        "body": "Swinging cat",
+        "url": "mxc://noordstar.me/EOoDvIugRBkKAPzrSbAisBMI",
+        "info": {
+            "w": 252,
+            "h": 168,
+            "size": 243818,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/EOoDvIugRBkKAPzrSbAisBMI",
+            "thumbnail_info": {
+                "w": 252,
+                "h": 168,
+                "size": 243818,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:658bb4f949aaf651f79f721682875ac163e35c1d9ce299f4f4a0c6a5cf803192"
+    }, {
+        "body": "Tap tap tap tap tap tap",
+        "url": "mxc://noordstar.me/eXElotxMlneGNqonYrrIaVbt",
+        "info": {
+            "w": 243,
+            "h": 253,
+            "size": 418342,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/eXElotxMlneGNqonYrrIaVbt",
+            "thumbnail_info": {
+                "w": 243,
+                "h": 253,
+                "size": 418342,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:f5162f304ae62fb2d5dd8cfc1b67718e174d540984fb4f845835f59cc11c4b54"
+    }, {
+        "body": "Wiggle buddies",
+        "url": "mxc://noordstar.me/vsOdXijwJAJhbrsNtIKGxcod",
+        "info": {
+            "w": 256,
+            "h": 212,
+            "size": 849834,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/vsOdXijwJAJhbrsNtIKGxcod",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 212,
+                "size": 849834,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:650adccb82adab27812651208fd38ed51fe700dc3f8aa85b6e70531a47a64e59"
+    }, {
+        "body": "Wtf is this cat lady's house",
+        "url": "mxc://noordstar.me/aGNksCstFFWDctrnrsqZPEeB",
+        "info": {
+            "w": 256,
+            "h": 180,
+            "size": 710474,
+            "mimetype": "image/webp",
+            "thumbnail_url": "mxc://noordstar.me/aGNksCstFFWDctrnrsqZPEeB",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 180,
+                "size": 710474,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:05ea473149ff8e32bffddb7f4f420f0dc3dfc3999095540721ca8dd5bbf972d3"
+    }]
+}
