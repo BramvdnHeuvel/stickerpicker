@@ -1,6 +1,6 @@
 {
     "packs": [
-        "noordstar-monty-python",
+        "noordstar-monty-python.json",
         "scalar-privacy-pam.json",
         "noordstar-frogs.json",
         "noordstar-reaction.json",
