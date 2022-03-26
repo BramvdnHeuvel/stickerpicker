@@ -1,9 +1,10 @@
 {
     "packs": [
-        "noordstar-cats.json",
+        "noordstar-monty-python",
         "scalar-privacy-pam.json",
         "noordstar-frogs.json",
         "noordstar-reaction.json",
+        "noordstar-cats.json",
         "noordstar-mike.json",
         "noordstar-skull.json",
         "noordstar-cursed.json"

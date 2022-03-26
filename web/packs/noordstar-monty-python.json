@@ -1,0 +1,329 @@
+{
+    "title": "Monty Python",
+    "id": "images",
+    "stickers": [{
+        "body": "All fear the Killer Bunny",
+        "url": "mxc://noordstar.me/KcRzWqAXpPSWDJbmBwOntEpF",
+        "info": {
+            "w": 256,
+            "h": 256,
+            "size": 4851202,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/KcRzWqAXpPSWDJbmBwOntEpF",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 256,
+                "size": 4851202,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:f640a79bdc5e72748aa743af99a4b55c345dde4a3991be47631c2152856c4e95"
+    }, {
+        "body": "All right, we'll call it a draw",
+        "url": "mxc://noordstar.me/faoPnNeodsWvkGfsxgkUMTKy",
+        "info": {
+            "w": 245,
+            "h": 245,
+            "size": 921808,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/faoPnNeodsWvkGfsxgkUMTKy",
+            "thumbnail_info": {
+                "w": 245,
+                "h": 245,
+                "size": 921808,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:4366b01d217c6ad772b5e61e81ec785c995df58fad5d5369327a794fd11280c9"
+    }, {
+        "body": "Bet you didn't expect that",
+        "url": "mxc://noordstar.me/CgweZyFhqYXMLgoWqsEEycFq",
+        "info": {
+            "w": 256,
+            "h": 198,
+            "size": 1063490,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/CgweZyFhqYXMLgoWqsEEycFq",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 198,
+                "size": 1063490,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:667c665e5d42734a9a87fe6c4ad047cc864daeeadc19470254957c1b77602a45"
+    }, {
+        "body": "Cat devours building",
+        "url": "mxc://noordstar.me/VaDJSlxVgCNFEERZPcynhAus",
+        "info": {
+            "w": 250,
+            "h": 190,
+            "size": 602792,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/VaDJSlxVgCNFEERZPcynhAus",
+            "thumbnail_info": {
+                "w": 250,
+                "h": 190,
+                "size": 602792,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:d3c9359229d47a59af38626b71ca5ac47858230d3161e8016f5824b0420c5bcb"
+    }, {
+        "body": "General Directional Farter",
+        "url": "mxc://noordstar.me/QHhxCVSnzUBveRsiCwXNIHFc",
+        "info": {
+            "w": 245,
+            "h": 190,
+            "size": 568310,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/QHhxCVSnzUBveRsiCwXNIHFc",
+            "thumbnail_info": {
+                "w": 245,
+                "h": 190,
+                "size": 568310,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:27daede4bd73d380c1c92f8315b13791b4ba651c3cebadb695e3a1f7bfbb95b1"
+    }, {
+        "body": "Helping Polly to wake up",
+        "url": "mxc://noordstar.me/sYqurjAWTjyRFHouZsZRopJK",
+        "info": {
+            "w": 256,
+            "h": 192,
+            "size": 1209770,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/sYqurjAWTjyRFHouZsZRopJK",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 192,
+                "size": 1209770,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:b468587b8c7384d7e56c011bcd886fd05ba452546c84cd7050b702676cb0bd89"
+    }, {
+        "body": "I don't like spam",
+        "url": "mxc://noordstar.me/ZpzQtuTbTuDikUseHAeDDoGZ",
+        "info": {
+            "w": 256,
+            "h": 158,
+            "size": 457520,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/ZpzQtuTbTuDikUseHAeDDoGZ",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 158,
+                "size": 457520,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:0aeb7754c9d29b611f3332f55cef9da99e928ec304cb5ef7a77b47dd79ff1dad"
+    }, {
+        "body": "Impatient Monty Python god",
+        "url": "mxc://noordstar.me/cFYnNshPxKQWmKwJTHPLXRrM",
+        "info": {
+            "w": 245,
+            "h": 174,
+            "size": 331211,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/cFYnNshPxKQWmKwJTHPLXRrM",
+            "thumbnail_info": {
+                "w": 245,
+                "h": 174,
+                "size": 331211,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:59e3f9476aca9ce3106b5afc65df50674930797077f84227fb31e7a9acca12ad"
+    }, {
+        "body": "John Cleese judges you disapprovingly",
+        "url": "mxc://noordstar.me/sNKYEZszldFVzWzslJQJWrwC",
+        "info": {
+            "w": 226,
+            "h": 226,
+            "size": 395824,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/sNKYEZszldFVzWzslJQJWrwC",
+            "thumbnail_info": {
+                "w": 226,
+                "h": 226,
+                "size": 395824,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:018660da45b2b2d54999e79369704f2e1efbc551ce4a172f56798c4aa0f1680f"
+    }, {
+        "body": "Look what's on the menu",
+        "url": "mxc://noordstar.me/xXSWqeAwtQfjISsdjmLHAUHt",
+        "info": {
+            "w": 256,
+            "h": 198,
+            "size": 5658771,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/xXSWqeAwtQfjISsdjmLHAUHt",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 198,
+                "size": 5658771,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:0a3b303fc2c0c03d1cd7245d28d7ffc2f5f62aca3722ade45d0484837b894d09"
+    }, {
+        "body": "Me after saying 'you too' to the waiter",
+        "url": "mxc://noordstar.me/XJUXjWzDgwDbISHMMqaokatw",
+        "info": {
+            "w": 256,
+            "h": 192,
+            "size": 1050429,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/XJUXjWzDgwDbISHMMqaokatw",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 192,
+                "size": 1050429,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:121e29609ac30c56a2f61dc37cea9b6275aa00725da48326684f8391f56b5add"
+    }, {
+        "body": "Monty Python Frogs",
+        "url": "mxc://noordstar.me/slQZxbMWFaGKNlaLZdVdBwNZ",
+        "info": {
+            "w": 256,
+            "h": 192,
+            "size": 305747,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/slQZxbMWFaGKNlaLZdVdBwNZ",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 192,
+                "size": 305747,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:71c795d6c91b22949244556eba86a6c50e92d911f81a9586e3c587e4225a1d1d"
+    }, {
+        "body": "Nobody does",
+        "url": "mxc://noordstar.me/gYPbjrmLWDiFzYZlRLTQMdEF",
+        "info": {
+            "w": 256,
+            "h": 192,
+            "size": 28438819,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/gYPbjrmLWDiFzYZlRLTQMdEF",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 192,
+                "size": 28438819,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:b165bf069f1344738ce1685e6aa223e1d2f5b0e337162cf3c14ef3174ac6ca05"
+    }, {
+        "body": "Nobody expects the Spanish Inquisition",
+        "url": "mxc://noordstar.me/sdfVNVziXUAXeGEtaMnOador",
+        "info": {
+            "w": 245,
+            "h": 192,
+            "size": 816273,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/sdfVNVziXUAXeGEtaMnOador",
+            "thumbnail_info": {
+                "w": 245,
+                "h": 192,
+                "size": 816273,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:6d9745498de5aa7a66ec372701c55d1f66e7037695b92be17729de78f68808f1"
+    }, {
+        "body": "Not really, no",
+        "url": "mxc://noordstar.me/nsrjPswMahRzuRKowbBFerMf",
+        "info": {
+            "w": 245,
+            "h": 190,
+            "size": 808467,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/nsrjPswMahRzuRKowbBFerMf",
+            "thumbnail_info": {
+                "w": 245,
+                "h": 190,
+                "size": 808467,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:7bb205e894f38e7f10c68119d69762654ffd8569d6ec4fe88bd194953d3f523a"
+    }, {
+        "body": "Nudge Nudge say no more",
+        "url": "mxc://noordstar.me/jAvbnYxuiykfkThhNAcipeUw",
+        "info": {
+            "w": 256,
+            "h": 192,
+            "size": 13078215,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/jAvbnYxuiykfkThhNAcipeUw",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 192,
+                "size": 13078215,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:81b668a97238ff18857e15f7c17964be4ca41735b7ffaf4722ddcbdb30e9ed51"
+    }, {
+        "body": "Rude John Cleese",
+        "url": "mxc://noordstar.me/bOQwOIjGbZPVNAlwRVVwwoFP",
+        "info": {
+            "w": 256,
+            "h": 198,
+            "size": 7036339,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/bOQwOIjGbZPVNAlwRVVwwoFP",
+            "thumbnail_info": {
+                "w": 256,
+                "h": 198,
+                "size": 7036339,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:d06d51a92d7a07745813a0fae77ea468279bdf0b7e6360ed8f0ca8d387eaf953"
+    }, {
+        "body": "Speak to us",
+        "url": "mxc://noordstar.me/IiwrGrWAGUaMIoOsfxqTVYXR",
+        "info": {
+            "w": 245,
+            "h": 245,
+            "size": 993677,
+            "mimetype": "image/gif",
+            "thumbnail_url": "mxc://noordstar.me/IiwrGrWAGUaMIoOsfxqTVYXR",
+            "thumbnail_info": {
+                "w": 245,
+                "h": 245,
+                "size": 993677,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:d5662d9151d967d137eb45bc1a3888f61af2b545330cca92bef3c72c22aea7e7"
+    }]
+}
