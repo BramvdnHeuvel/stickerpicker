@@ -1,0 +1,95 @@
+{
+    "title": "Thinking emojis",
+    "id": "images",
+    "stickers": [{
+        "body": "MegaThink",
+        "url": "mxc://noordstar.me/oitOXcFsgnnJXCPhJnuYtdvu",
+        "info": {
+            "w": 112,
+            "h": 112,
+            "size": 10050,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/oitOXcFsgnnJXCPhJnuYtdvu",
+            "thumbnail_info": {
+                "w": 112,
+                "h": 112,
+                "size": 10050,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:c4ab870e1185d02fe299e8a558489d314c622cc84906d68cbc76eac7ab0b3931"
+    }, {
+        "body": "ThinkBanne",
+        "url": "mxc://noordstar.me/uYrhrbIEjvKOqKjeEWURSyPj",
+        "info": {
+            "w": 112,
+            "h": 112,
+            "size": 3744,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/uYrhrbIEjvKOqKjeEWURSyPj",
+            "thumbnail_info": {
+                "w": 112,
+                "h": 112,
+                "size": 3744,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:0689477c96e5bfcb93b435f48ee405d1140445b80a198a75aee9306bf16101ce"
+    }, {
+        "body": "ThinkEyes",
+        "url": "mxc://noordstar.me/eDpGGibTkWiNhKFzdsnjsPca",
+        "info": {
+            "w": 101,
+            "h": 112,
+            "size": 8240,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/eDpGGibTkWiNhKFzdsnjsPca",
+            "thumbnail_info": {
+                "w": 101,
+                "h": 112,
+                "size": 8240,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:9529406ccd77bb2b1617ad619e90d8e8783d8a7c78b27778f3ad2cbb8392fa17"
+    }, {
+        "body": "Thonk",
+        "url": "mxc://noordstar.me/noKEBBfYnVyMgkLmVulhzJxT",
+        "info": {
+            "w": 104,
+            "h": 89,
+            "size": 5563,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/noKEBBfYnVyMgkLmVulhzJxT",
+            "thumbnail_info": {
+                "w": 104,
+                "h": 89,
+                "size": 5563,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:3dbce4ac91a20ae23e46c0eb302319d901923289806561ee01c24944b782940b"
+    }, {
+        "body": "Thonkery",
+        "url": "mxc://noordstar.me/jXZyPyOEmwnwUSqDkbpcrLHV",
+        "info": {
+            "w": 112,
+            "h": 112,
+            "size": 8921,
+            "mimetype": "image/png",
+            "thumbnail_url": "mxc://noordstar.me/jXZyPyOEmwnwUSqDkbpcrLHV",
+            "thumbnail_info": {
+                "w": 112,
+                "h": 112,
+                "size": 8921,
+                "mimetype": "image/png"
+            }
+        },
+        "msgtype": "m.sticker",
+        "id": "sha256:321853259b253fd9b52c4719a2068db72a8e6b8c1a8db712db25b86b7da560dc"
+    }]
+}

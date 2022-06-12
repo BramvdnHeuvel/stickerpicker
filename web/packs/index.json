@@ -1,5 +1,7 @@
 {
     "packs": [
+        "meme-thinks.json",
+        "meme-blobs.json",
         "noordstar-monty-python.json",
         "scalar-privacy-pam.json",
         "noordstar-frogs.json",
