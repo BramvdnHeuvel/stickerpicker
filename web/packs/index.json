@@ -1,15 +1,16 @@
 {
     "packs": [
         "meme-thinks.json",
+        "noordstar-reaction.json",
+        "noordstar-dalle.json",
+        "noordstar-cursed.json",
         "meme-blobs.json",
         "noordstar-monty-python.json",
         "scalar-privacy-pam.json",
         "noordstar-frogs.json",
-        "noordstar-reaction.json",
         "noordstar-cats.json",
-        "noordstar-mike.json",
         "noordstar-skull.json",
-        "noordstar-cursed.json"
+        "noordstar-mike.json"
     ],
     "homeserver_url": "https://synapse.noordstar.me"
 }
